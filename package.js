@@ -1,10 +1,8 @@
 Package.describe({
   name: 'jss:flat-ui',
   version: '1.0.0',
-  // Brief, one-line summary of the package.
-  summary: '',
-  // URL to the Git repository containing the source code for this package.
-  git: '',
+  summary: 'Flat UI CSS frontend framework',
+  git: 'https://github.com/JSSolutions/flat-ui',
   documentation: 'README.md'
 });
 
