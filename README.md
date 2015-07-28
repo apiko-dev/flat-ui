@@ -1,0 +1,1 @@
+Meteor's smart package that wraps [Flat UI](https://github.com/designmodo/Flat-UI)
