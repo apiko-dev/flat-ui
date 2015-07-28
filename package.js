@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jss:flat-ui',
-  version: '1.0.0',
+  version: '2.2.2',
   summary: 'Flat UI CSS frontend framework',
   git: 'https://github.com/JSSolutions/flat-ui',
   documentation: 'README.md'
@@ -9,7 +9,7 @@ Package.describe({
 Package.onUse(function (api) {
   api.versionsFrom('1.1.0.2');
 
-  api.use('twbs:bootstrap');
+  api.use('twbs:bootstrap@3.3.5');
   api.use('jquery@1.11.1', 'client');
 
   api.addFiles(['flat-ui.css', 'flat-ui.js'], 'client');
